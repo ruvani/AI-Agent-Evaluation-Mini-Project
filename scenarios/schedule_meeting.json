@@ -1,0 +1,5 @@
+{
+  "objective": "Schedule a meeting with the design team",
+  "expected_outcome": "Meeting successfully scheduled",
+  "allowed_tools": ["calendar_api"]
+}
