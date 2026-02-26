@@ -22,3 +22,14 @@ Agent systems require deeper evaluation because they:
 - Operate across multiple steps
 
 This framework evaluates the full execution loop using structured logs and layered scoring.
+
+How to Run
+1. Clone Repository
+git clone https://github.com/ruvani/AI-Agent-Evaluation-Mini-Project.git
+cd AI-Agent-Evaluation-Mini-Project
+
+2. Install Requirements
+pip install -r requirements.txt
+
+3. Run Evaluation
+python main.py --scenario scenarios/schedule_meeting.json
